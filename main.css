@@ -1,0 +1,37 @@
+.box {
+  border-radius: 8px;
+  border: solid black 2px;
+  width: 100px;
+  height: 100px;
+  background: red;
+}
+.box2 {
+  border-radius: 8px;
+  border: solid black 2px;
+  width: 200px;
+  height: 200px;
+  background: blue;
+}
+.box3 {
+  border-radius: 8px;
+  border: solid black 2px;
+  width: 250px;
+  height: 250px;
+  background: green;
+}
+.box4 {
+  border-radius: 8px;
+  border: solid black 2px;
+  width: 50px;
+  height: 50px;
+  background: purple;
+}
+nav {
+  height: 70px;
+  background: gray;
+}
+footer {
+  height: 80px;
+  background: orange;
+}
+/*# sourceMappingURL=main.css.map */
